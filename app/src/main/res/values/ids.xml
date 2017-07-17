@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">120378922507</string>
+    <string name="marcador_tiempoReal_id">CgkIi6ySucADEAIQAQ</string>
+    <string name="logro_invitar">CgkIi6ySucADEAIQAg</string>
+    <string name="logro_tiempoReal">CgkIi6ySucADEAIQAw</string>
+    <string name="evento_offline">CgkIi6ySucADEAIQBA</string>
+    <string name="evento_tiempoReal">CgkIi6ySucADEAIQBQ</string>
+    <string name="evento_porTurnos">CgkIi6ySucADEAIQBg</string>
+</resources>
